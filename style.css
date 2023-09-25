@@ -1,0 +1,104 @@
+body {
+    padding-top: 55px;
+    font-family: 'Roboto', serif;
+    color: #050505;
+    background-color: #FDFFFC;
+    font-size: 1.15rem;
+    line-height: 1.5;
+}
+
+a {
+    color: #3066BE;
+}
+
+a:hover {
+    color: #3066BE;
+}
+
+.navbar-light {
+    background-color: #FDFFFC;
+    border-top: solid #050505 2px;
+    border-bottom: solid #050505 1px;
+}
+
+.navbar-nav {
+text-align: center;
+}
+
+.nav-link:hover {
+text-decoration: underline;
+}
+
+.container {
+    padding-right:3%;
+    padding-left:3%;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.jumbotron-main-header {
+    padding: 5%;
+    margin-bottom: 0px;
+    text-align: center;
+    color: #FDFFFC;
+    border-bottom: solid #050505 1px;
+}
+
+.jumbotron-text {
+    color: #000000;
+}
+
+.page-name-title {
+color: #000000;
+margin-top: 3%;
+margin-bottom: 3%;
+}
+
+.about-panel {
+    margin-top: 2%;
+    margin-left: 25%;
+    margin-bottom: 6%;
+}
+
+.portfolio-panel {
+margin-top: 2%;
+margin-bottom: 6%;
+}
+
+.project-description{
+padding-right: 5%;
+}
+
+.project-image {
+/* padding-left: 5%; */
+}
+
+.color-emphasis {
+color: #5E807F;
+}
+
+.research-panel {
+margin-top: 2%;
+margin-bottom: 6%;
+}
+
+.publication-header {
+color: #050505;
+text-decoration: underline;
+}
+
+footer {
+background-color: #B4B4B4;
+color: #FDFFFC;
+font-size: 1.15rem;
+}
+
+@media (max-width: 576px) {
+.jumbotron-text h1 {
+    font-size: 25px;
+}
+
+.jumbotron-text h2 {
+    font-size: 15px;
+}
+}
