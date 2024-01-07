@@ -21,7 +21,7 @@
 title: Jessica Tiu
 email: jessica.tiu@duke.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Tracking the things I learn.
+  Tracking the things I learn about data science and machine learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
