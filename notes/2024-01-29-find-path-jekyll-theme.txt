@@ -1,0 +1,2 @@
+bundle show minima
+bundle show <theme-name>
