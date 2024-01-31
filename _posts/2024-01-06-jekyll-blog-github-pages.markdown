@@ -1,9 +1,9 @@
 ---
-layout: post
 title:  "Getting Jekyll to work on GitHub Pages"
-date:   2024-01-06 12:00:00 +0800
-categories: jekyll update
+tags:
+  - jekyll
 ---
+
 I spent WAY too long getting this site up and running with Jekyll.
 
 The site was looking just fine when I was serving it locally, but once I deployed it on GitHub Pages, it was malformed!
