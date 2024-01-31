@@ -1,2 +1,5 @@
 bundle show minima
 bundle show <theme-name>
+
+bundle info --path <theme-name>
+Reference: https://jekyllrb.com/docs/themes/#overriding-theme-defaults

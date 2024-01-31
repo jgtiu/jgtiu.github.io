@@ -1,0 +1,14 @@
+
+spoiled with bigquery
+
+- Right-click `Databases` -> `Create` -> `Database`
+- Name it `dvdrental`
+- Right-click dvdrental -> `Restore...` -> Pick out `dvdrental.zip`
+C:\Users\JT\Downloads\dvdrental\dvdrental.tar
+
+References:
+
+- [PostgreSQL Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=SpfIwlAYaKk) by [freeCodeCamp](https://www.youtube.com/@freecodecamp)
+- Download PostgresQL for Windows: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+- Troubleshooting reference: [How to Install PostgreSQL 15 on Windows 10 [ 2023 Update ] Complete guide | pgAdmin 4](https://www.youtube.com/watch?v=0n41UTkOBb0) by [Geeky Script](https://www.youtube.com/@GeekyScript)
+- Link to `dvdrental.tar` file: https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
