@@ -1,5 +1,6 @@
 ---
 title:  "Getting Jekyll to work on GitHub Pages"
+excerpt: "I spent WAY too long figuring this out. Here's a guide to save you the trouble."
 tags:
   - jekyll
 ---
