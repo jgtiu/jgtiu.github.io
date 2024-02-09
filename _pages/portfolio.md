@@ -1,9 +1,7 @@
 ---
 layout: single
-author_profile: true
 permalink: /portfolio/
 title: "Portfolio"
-excerpt: ""
 last_modified_at: 2024-01-30T12:00:00-04:00
 toc: true
 toc_sticky: true
