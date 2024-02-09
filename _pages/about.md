@@ -2,7 +2,6 @@
 layout: single
 permalink: /about/
 title: "About"
-excerpt: ""
 last_modified_at: 2024-01-30T12:00:00-04:00
 ---
 
