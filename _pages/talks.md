@@ -1,6 +1,4 @@
 ---
-layout: single
-author_profile: true
 permalink: /talks/
 title: "Talks"
 last_modified_at: 2024-01-30T12:00:00-04:00
