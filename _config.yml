@@ -210,6 +210,13 @@ kramdown:
   enable_coderay: false
 
 
+# Collections
+collections:
+  notes:
+    output: true
+    permalink: /:collection/:path/
+
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -297,3 +304,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _notes
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: single
+      author_profile: true
+      share: true
