@@ -93,7 +93,7 @@
       .toc {
         .toc__menu {
           overflow-y: auto;
-          max-height: calc(100vh - 7em);
+          max-height: calc(100vh - #{$nav-height} - 5em);
         }
       }
     }
