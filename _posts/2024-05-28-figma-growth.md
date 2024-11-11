@@ -52,7 +52,7 @@ $$\dfrac{\text{# users on free plan last quarter, paid plan this quarter}}{\text
 
 ## Sample data
 
-### Users
+**Users**
 
 | User ID | Email                    | Job title           |
 |---------|--------------------------|---------------------|
@@ -62,9 +62,17 @@ $$\dfrac{\text{# users on free plan last quarter, paid plan this quarter}}{\text
 | 4       | davistimothy@example.org | Other               |
 | 5       | emily21@example.com      | User research       |
 
+****
+
 ## SQL analysis
 
 ## Ideas on how to improve metrics
+Good strategies to improve the conversion rate will take into account the steps in the user funnel. Here are some examples:
+
+- **_Make users aware_**: For example, if a free-plan user fails to make more than 3 collaborative design files (because this is only allowed for paid users) and leaves their Figma session, it will help to ensure they are aware that the paid plan exists. "Awareness efforts" include showing popups in Figma informing the user about the additional features under a paid plan, or sending a marketing email.
+- **_Offer suggestions at plan limits._** Upsell users when they attempt to go beyond free plan limits.
+- **_Let users try._** Offer free trials for paid features. It's possible that users cannot see the value of paid features because they have not tried them. Of course, some experimentation will be useful before rolling this out.
+- **_Monitor the use of paid features._** If a user does not use the paid features while they are on a paid/professional plan, they are more likely to return to the free plan.
 
 ## Closing Thoughts
 
