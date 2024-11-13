@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Jessica Tiu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Studying MS CompSci at Duke University. Before grad school, I was a data scientist at Thinking Machines."
-  location         : "Durham, NC"
+  bio              : "Data scientist at Aetna. MS CompSci at Duke University."
+  location         : "Dallas, TX"
   email            :
   links:
     - label: "Email"
